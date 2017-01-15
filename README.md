@@ -1,0 +1,2 @@
+# GroxBot
+Discord bot
